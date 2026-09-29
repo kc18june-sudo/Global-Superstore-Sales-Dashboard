@@ -20,7 +20,7 @@ Excel, Pivot Tables, PivotCharts, Slicers
 - Tables make a loss among sub-categories
 
 ## Dashboard Preview 
-<img width="1920" height="1080" alt="Screenshot 2026-09-29 153740" src="https://github.com/user-attachments/assets/54db1362-b36a-4dbf-ac29-24491e8f72d5" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 154419" src="https://github.com/user-attachments/assets/eddacf37-eb0f-4800-9de5-52042f25ba7e" />
 
 ## How to Use
 Download the .xlsx file and use the slicers (Year, Market, Category) to filter.
