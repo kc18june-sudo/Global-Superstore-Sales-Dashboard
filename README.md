@@ -16,7 +16,7 @@ Excel, Pivot Tables, PivotCharts, Slicers
 ## Key Insights
 - Sales grew every year, from ~$2.26M (2011) to ~$4.30M (2014)
 - Profit doubled, from ~$249K (2011) to ~$504K (2014)
-- Technology gives the most profit (~$664K), then Office Supplies (~$518K) and Furniture (~$285K)
+- Technology gives the most profit (≈$664K), then Office Supplies (≈$518K) and Furniture (≈$285K)
 - Tables make a loss among sub-categories
 
 ## Dashboard Preview 
