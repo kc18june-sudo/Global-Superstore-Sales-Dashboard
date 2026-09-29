@@ -23,4 +23,4 @@ Excel, Pivot Tables, PivotCharts, Slicers
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 153707" src="https://github.com/user-attachments/assets/c50de9cb-a3bf-4ca2-9fd8-faace95da72a" />
 
 ## How to Use
-Download the .xlsx file and use the slicers (Year, Market, Category) to filter.
+Download [Global-Superstore-Dashboard.xlsx](Global-Superstore-Dashboard.xlsx) and use the slicers (Year, Market, Category) to filter.
